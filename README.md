@@ -3,7 +3,7 @@
 ## Usage
 
 -   clone the github repo using `git clone https://github.com/Sujas-Aggarwal/LinkedIn-Automation.git`
--   change the directory to the app `cd LinkedIn-Automation-master`
+-   change the directory to the app `cd LinkedIn-Automation`
 -   install the dependencies using `npm install`
 -   make a .env file in the root level of project and add these variables there -
 
