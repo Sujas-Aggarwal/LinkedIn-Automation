@@ -8,6 +8,7 @@
 -   make a .env file in the root level of project and add these variables there -
 
     ```LINKEDIN_USER = {your linkedin email}```
+    
     ```LINKEDIN_PASS = {your linkedin password}```
 
 -   run the index.js using `./run.bat`, if you are using OS other than windows or even windows, you can run `node index.js`
